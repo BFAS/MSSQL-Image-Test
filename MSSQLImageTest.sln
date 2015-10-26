@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQLImageTest", "MSSQLImageTest\MSSQLImageTest.csproj", "{A749F124-4CA0-45C1-96C1-1864759EBD62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYSQLImageTest.Tests", "MYSQLImageTest.Tests\MYSQLImageTest.Tests.csproj", "{4140818D-69FD-4C2A-8E84-DDFCEB56A781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQLImageTest.Web", "MSSQLImageTest.Web\MSSQLImageTest.Web.csproj", "{756A5CD1-5B4B-421B-B31F-1FF38AB44DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A749F124-4CA0-45C1-96C1-1864759EBD62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A749F124-4CA0-45C1-96C1-1864759EBD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A749F124-4CA0-45C1-96C1-1864759EBD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A749F124-4CA0-45C1-96C1-1864759EBD62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4140818D-69FD-4C2A-8E84-DDFCEB56A781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4140818D-69FD-4C2A-8E84-DDFCEB56A781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4140818D-69FD-4C2A-8E84-DDFCEB56A781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4140818D-69FD-4C2A-8E84-DDFCEB56A781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756A5CD1-5B4B-421B-B31F-1FF38AB44DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756A5CD1-5B4B-421B-B31F-1FF38AB44DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756A5CD1-5B4B-421B-B31F-1FF38AB44DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756A5CD1-5B4B-421B-B31F-1FF38AB44DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
